@@ -1,0 +1,5 @@
+rootProject.name = 'JavaLogging'
+
+include 'JUL'
+include 'log4j'
+include 'logback'
